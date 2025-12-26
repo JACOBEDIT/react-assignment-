@@ -1,0 +1,5 @@
+{
+  "name": "TaskMaster To-Do List",
+  "description": "A sleek, modern To-Do application built with React and Tailwind CSS, featuring task management, editing capabilities, and persistent state.",
+  "requestFramePermissions": []
+}
